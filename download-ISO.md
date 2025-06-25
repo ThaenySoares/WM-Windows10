@@ -1,4 +1,4 @@
-# Como baixar ISO Windows 10
+# Como baixar imagem ISO Windows 10
 
 - O que é ISO?
 <br>
