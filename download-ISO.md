@@ -14,7 +14,7 @@ Permite instalar o SO em uma máquina física ou virtual.
      4. Desassinalar a opção **Usar o padrão do navegador** e selecione a opção **Chrome - Ipad**, como na imagem abaixo:<br>
      <img src = "https://github.com/user-attachments/assets/47254491-e82e-406e-bc27-04f5010b33e6" width="400" style = "diplay:block; margin:auto; "><br>
       5. Recarregue a página<br>
-      6. Selecione Windows 10(ISO) > Confirme > Selecione o idioma > Confirme
+      6. Selecione Windows 10(ISO) > Confirme > Selecione o idioma > Confirme<br>
          
 
 
